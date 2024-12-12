@@ -1,0 +1,50 @@
+Правило: CRITICAL -> Apply updates per vendor instructions., 9.8
+  Поддержка: 0.21
+  Уверенность: 0.77
+  Лифт: 3.67
+
+Правило: 9.8 -> Apply updates per vendor instructions., CRITICAL
+  Поддержка: 0.21
+  Уверенность: 0.90
+  Лифт: 3.63
+
+Правило: Apply updates per vendor instructions., CRITICAL -> 9.8
+  Поддержка: 0.21
+  Уверенность: 0.85
+  Лифт: 3.63
+
+Правило: Apply updates per vendor instructions., 9.8 -> CRITICAL
+  Поддержка: 0.21
+  Уверенность: 1.00
+  Лифт: 3.67
+
+Правило: CRITICAL -> 9.8
+  Поддержка: 0.23
+  Уверенность: 0.86
+  Лифт: 3.67
+
+Правило: 9.8 -> CRITICAL
+  Поддержка: 0.23
+  Уверенность: 1.00
+  Лифт: 3.67
+
+Правило: Apply updates per vendor instructions. -> microsoft
+  Поддержка: 0.29
+  Уверенность: 0.32
+  Лифт: 1.06
+
+Правило: microsoft -> Apply updates per vendor instructions.
+  Поддержка: 0.29
+  Уверенность: 0.99
+  Лифт: 1.06
+
+Правило: HIGH -> Apply updates per vendor instructions.
+  Поддержка: 0.43
+  Уверенность: 0.98
+  Лифт: 1.05
+
+Правило: Apply updates per vendor instructions. -> HIGH
+  Поддержка: 0.43
+  Уверенность: 0.46
+  Лифт: 1.05
+

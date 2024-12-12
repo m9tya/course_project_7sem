@@ -1,0 +1,20 @@
+Правило: action_Apply updates per vendor instructions. -> sev_HIGH
+Поддержка: 0.42764857881136953
+Уверенность: 0.45844875346260394
+Лифт: 1.0498205182841878
+
+Правило: sev_HIGH -> action_Apply updates per vendor instructions.
+Поддержка: 0.42764857881136953
+Уверенность: 0.9792899408284024
+Лифт: 1.0498205182841875
+
+Правило: action_Apply updates per vendor instructions. -> vendor_microsoft
+Поддержка: 0.29457364341085274
+Уверенность: 0.31578947368421056
+Лифт: 1.0580997949419004
+
+Правило: vendor_microsoft -> action_Apply updates per vendor instructions.
+Поддержка: 0.29457364341085274
+Уверенность: 0.9870129870129871
+Лифт: 1.0580997949419004
+
